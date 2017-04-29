@@ -1,0 +1,47 @@
+.section-1 {
+  background-color: #d8d8d8;
+  border: 0.2em solid red;
+}
+
+.section-2 {
+  border: 0.2em solid green;
+  margin: 2rem 0;
+}
+
+.section-2-left {
+/*  display: block;*/
+}
+
+.border-yellow {
+  border: 0.2em solid yellow;
+}
+
+.border-blue {
+  border: 0.2em solid blue;
+}
+
+.section-2-main-img {
+  margin-top: 1rem;
+}
+
+.section-2 img {
+  width: 100%;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.section-2-row div {
+  margin: 0;
+  padding: 1rem;
+  border: 0.2rem solid pink;
+}
+
+#guest-lecture {
+  background-color: #d8d8d8;
+}
+
+#no-padding-bottom {
+  padding-bottom: 0;
+}
