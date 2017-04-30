@@ -80,6 +80,25 @@
   width: 100%;
 }
 
+.header-center {
+  text-align: center;
+}
+
+footer {
+  border-top: 0.1rem solid #d8d8d8;
+  padding-top: 1rem;
+  padding-bottom: 4rem;
+}
+
+.footer-links {
+  display: inline-flex;
+  justify-content: flex-end;
+/*  border: 0.2rem dashed orange;*/
+}
+
+footer a {
+  padding: 0 1rem;
+}
 
 
 
