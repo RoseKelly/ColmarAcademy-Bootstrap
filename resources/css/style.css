@@ -8,10 +8,6 @@
   margin: 2rem 0;
 }
 
-.section-2-left {
-/*  display: block;*/
-}
-
 .border-yellow {
   border: 0.2em solid yellow;
 }
@@ -32,7 +28,7 @@
   display: flex;
 }
 
-.section-2-row div {
+.section-row div {
   margin: 0;
   padding: 1rem;
   border: 0.2rem solid pink;
@@ -45,3 +41,52 @@
 #no-padding-bottom {
   padding-bottom: 0;
 }
+
+.whole-block {
+  border: 0.2rem solid red;
+  background-color: #ffffff;
+  padding: 0;
+}
+
+.whole-block img {
+  width: 100%;
+}
+
+.section-3 {
+  background-color: #d8d8d8;
+}
+
+.section-3-row {
+  margin-bottom: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.section-4 {
+  border: 0.2em solid green;
+  margin: 2rem 0;
+}
+
+.section-4-main-img {
+  margin-top: 1rem;
+}
+
+.section-4 img {
+  width: 100%;
+}
+
+.section-4 video {
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
